@@ -1,9 +1,9 @@
 ## Hi! I'm Gabriela Guatura 👋
 
 🌍 I'm a Brazilian based in Japan ⛩️ <br>
-🌱 I’m currently learning HTML, CSS, JAVASCRIP
-🧠 Aspiring UX/UI Designer
-⚡ Fun fact: I'm a foodie 🍕🍣🍜
+🌱 I’m currently learning HTML, CSS, JAVASCRIP<br>
+🧠 Aspiring UX/UI Designer<br>
+⚡ Fun fact: I'm a foodie 🍕🍣🍜<br>
 
 <div style="display: inline_block"><br>
   <h3> Learning: </h3>
@@ -12,9 +12,7 @@
   <img align="center" alt="Gabe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
- 
   ##
- 
  
 <div> 
   <a href="https://www.youtube.com/@Moshi_Moshi_" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
