@@ -1,7 +1,7 @@
 ## Hi! I'm Gabriela Guatura 👋
 
 🌍 I'm a Brazilian based in Japan ⛩️ <br>
-🌱 I’m currently learning HTML, CSS, JAVASCRIP<br>
+🌱 I’m currently learning HTML, CSS, JAVASCRIPT<br>
 🧠 Aspiring UX/UI Designer<br>
 ⚡ Fun fact: I'm a foodie 🍕🍣🍜<br>
 
